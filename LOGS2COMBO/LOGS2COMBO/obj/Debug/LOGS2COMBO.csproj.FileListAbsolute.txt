@@ -1,0 +1,7 @@
+C:\Users\saidl\source\repos\LOGS2COMBO\LOGS2COMBO\bin\Debug\LOGS2COMBO.exe.config
+C:\Users\saidl\source\repos\LOGS2COMBO\LOGS2COMBO\bin\Debug\LOGS2COMBO.exe
+C:\Users\saidl\source\repos\LOGS2COMBO\LOGS2COMBO\bin\Debug\LOGS2COMBO.pdb
+C:\Users\saidl\source\repos\LOGS2COMBO\LOGS2COMBO\obj\Debug\LOGS2COMBO.csproj.AssemblyReference.cache
+C:\Users\saidl\source\repos\LOGS2COMBO\LOGS2COMBO\obj\Debug\LOGS2COMBO.csproj.CoreCompileInputs.cache
+C:\Users\saidl\source\repos\LOGS2COMBO\LOGS2COMBO\obj\Debug\LOGS2COMBO.exe
+C:\Users\saidl\source\repos\LOGS2COMBO\LOGS2COMBO\obj\Debug\LOGS2COMBO.pdb
